@@ -6,6 +6,7 @@ I'm Thálysson from Brazil, and I'm an aspiring front end web developer looking 
 * 💻 HTML, CSS, JavaScript, TypeScript, Cypress, Postman
 * ⚛ React JS
 
+## Aditional info
 - 🔭 I’m currently working on an architecture portfolio website
 - 🌱 I’m currently learning TypeScript and ReactJS
 - 📫 How to reach me: tqbrandao@gmail.com
