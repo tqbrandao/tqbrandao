@@ -1,6 +1,6 @@
 # Thálysson Brandão
 
-I'm a Front-end Developer with over 3 years of experience creating modern websites and applications. I'm passionate about working with languages, tools and frameworks such as JavaScript, ReactJS, and AngularJS. I'm also well versed in automated testing tools such as Cypress, Postman, Cucumber, Jenkins, Jest, etc.
+I'm a Full Stack Developer with over 4 years of experience creating modern websites, API's and applications. I'm passionate about working with languages, tools and frameworks such as JavaScript, ReactJS, AngularJS, and Node.js. I'm also well versed in automated testing tools such as Cypress, Postman, Cucumber, Jenkins, Jest, etc.
 
 ## Aditional info
 - 🔭 I’m currently working on a Healthcare portal.
